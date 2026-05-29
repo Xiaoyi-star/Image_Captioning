@@ -2,7 +2,7 @@
 
 **基于 BLIP 的图像自动描述生成**是利用深度学习实现图像到自然语言的跨模态转换。本项目使用 Salesforce 提出的 BLIP (Bootstrapping Language-Image Pre-training) 模型，能够对任意图片生成准确的英文描述，并结合 Opus-MT 翻译模型将英文描述转换为中文。
 
-![Demo](./images/demo.jpg)
+![lack](./images/demo.jpg)
 
 ---
 
@@ -21,15 +21,15 @@
 
 | 图片 | 英文描述 | 中文翻译 |
 |:---:|:---|:---|
-| ![bird](./images/thumb_bird.jpg) | a bird flying through the air with its wings spread | 一只鸟在空中飞翔 翅膀张开 |
-| ![boat](./images/thumb_boat.png) | a person in a canoe floating in a lake | 在湖中漂浮的独木舟中的人 |
-| ![child](./images/thumb_child.jpg) | a small child sitting on the ground | 一个小小孩坐在地上 |
-| ![lack](./images/thumb_lack.jpg) | a park with a lake and buildings in the background | 一个有湖和建筑在背景中的公园 |
-| ![livingroom](./images/thumb_livingroom.jpg) | a living room with a couch, table and chairs | 客厅，有沙发、桌子和椅子 |
-| ![nonver](./images/thumb_nonver.jpg) | a stuffed animal sitting on top of a bed | 坐在床顶的填充动物 |
-| ![rabbit](./images/thumb_rabbit.jpg) | a white rabbit in a cage | 笼子里的白兔子 |
-| ![road](./images/thumb_road.jpg) | a long road with cars driving down it | 一条长长的公路，车开在这条路上 |
-| ![tree](./images/thumb_tree.jpg) | a large tree in the middle of a field | 田野中间的一棵大树 |
+| ![bird](./images/bird.jpg) | a bird flying through the air with its wings spread | 一只鸟在空中飞翔 翅膀张开 |
+| ![boat](./images/boat.png) | a person in a canoe floating in a lake | 在湖中漂浮的独木舟中的人 |
+| ![child](./images/child.jpg) | a small child sitting on the ground | 一个小小孩坐在地上 |
+| ![lack](./images/lack.jpg) | a park with a lake and buildings in the background | 一个有湖和建筑在背景中的公园 |
+| ![livingroom](./images/livingroom.jpg) | a living room with a couch, table and chairs | 客厅，有沙发、桌子和椅子 |
+| ![nonver](./images/nonver.jpg) | a stuffed animal sitting on top of a bed | 坐在床顶的填充动物 |
+| ![rabbit](./images/rabbit.jpg) | a white rabbit in a cage | 笼子里的白兔子 |
+| ![road](./images/road.jpg) | a long road with cars driving down it | 一条长长的公路，车开在这条路上 |
+| ![tree](./images/tree.jpg) | a large tree in the middle of a field | 田野中间的一棵大树 |
 
 ---
 
