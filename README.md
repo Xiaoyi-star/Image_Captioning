@@ -2,8 +2,6 @@
 
 **基于 BLIP 的图像自动描述生成**是利用深度学习实现图像到自然语言的跨模态转换。本项目使用 Salesforce 提出的 BLIP (Bootstrapping Language-Image Pre-training) 模型，能够对任意图片生成准确的英文描述，并结合 Opus-MT 翻译模型将英文描述转换为中文。
 
-![boat](./images/boat.jpg)
-
 ---
 
 ## 📌 实验目标
