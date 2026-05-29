@@ -1,0 +1,36 @@
+文 件： bird.jpg
+英 文： a bird flying through the air with its wings spread
+中 文： 一只鸟在空中飞翔 翅膀张开
+----------------------------------------
+文 件： boat.png
+英 文： a person in a canoe floating in a lake
+中 文： 在湖中漂浮的独木舟中的人
+----------------------------------------
+文 件： child.jpg
+英 文： a small child sitting on the ground
+中 文： 一个小小孩坐在地上
+----------------------------------------
+文 件： lack.jpg
+英 文： a park with a lake and buildings in the background
+中 文： 一个有湖和建筑在背景中的公园
+----------------------------------------
+文 件： livingroom.jpg
+英 文： a living room with a couch, table and chairs
+中 文： 客厅,有沙发、桌子和椅子
+----------------------------------------
+文 件： nonver.jpg
+英 文： a stuffed animal sitting on top of a bed
+中 文： 坐在床顶的填充动物
+----------------------------------------
+文 件： rabbit.jpg
+英 文： a white rabbit in a cage
+中 文： 笼子里的白兔子
+----------------------------------------
+文 件： road.jpg
+英 文： a long road with cars driving down it
+中 文： 一条长长的公路,车开在这条路上
+----------------------------------------
+文 件： tree.jpg
+英 文： a large tree in the middle of a field
+中 文： 田野中间的一棵大树,
+----------------------------------------
